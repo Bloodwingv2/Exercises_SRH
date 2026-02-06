@@ -7,7 +7,7 @@ A collection of supervised learning exercises covering decision trees and practi
 This project contains two individual exercises:
 
 - **Exercise 1: Decision Tree** - Implementation and analysis of decision tree algorithms
-- **Exercise 2: Supervised Learning** - Practical applications of supervised learning methods
+- **Exercise 2: Supervised Learning** - Applying and comparing supervised learning models on a categorical (classification) dataset, focusing on tree-based models and K-Nearest Neighbors (KNN).
 
 ### Datasets
 
